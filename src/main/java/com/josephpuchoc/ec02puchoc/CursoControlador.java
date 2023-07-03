@@ -38,5 +38,5 @@ public class CursoControlador {
         cursoRepository.delete(c);
         return "Eliminado";
     }
-
+    
 }

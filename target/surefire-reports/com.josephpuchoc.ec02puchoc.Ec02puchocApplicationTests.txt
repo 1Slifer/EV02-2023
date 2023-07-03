@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.josephpuchoc.ec02puchoc.Ec02puchocApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.667 s - in com.josephpuchoc.ec02puchoc.Ec02puchocApplicationTests
