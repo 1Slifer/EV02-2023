@@ -1,5 +1,4 @@
-@subdominio = sub-dominio-render
-
+@subdominio = ec02
 ##############################
 # Requests SIN base de datos #
 ##############################
